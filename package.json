@@ -1,6 +1,6 @@
 {
   "name": "ezy-weather-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A ez'y way to get weather data",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,6 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.3.0"
-  },
-  "devDependencies": {
-    "documentation": "^9.3.1"
   },
   "repository": {
     "type": "git",
