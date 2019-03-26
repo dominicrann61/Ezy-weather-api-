@@ -24,6 +24,12 @@ async function getLatAndLong(q){
 
 
 
+module.exports = {
+	getForecast,
+	getLatAndLong
+};
+
+
 
 
 
